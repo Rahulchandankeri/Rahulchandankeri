@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Rahul Chandankeri!
-I am a front-end developer by passion, living in India.  I constantly keep updating my skills. I’m quite knowledgeable in coding and markup languages like:
+I am a front-end developer by passion, living in India. I constantly keep updating my skills and I’m quite knowledgeable in coding and markup languages like:
 
 1.   Hypertext markup language (HTML)
 2.   Cascading Style Sheet (CSS)
