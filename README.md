@@ -4,9 +4,9 @@ I am a front-end developer by passion, living in India. I constantly keep updati
 1.   React JS
 2.   JavaScript
 3.   Hypertext markup language (HTML)
-4.   Cascading Style Sheet (CSS)
-5.   CSS pre-processors like SAAS
-6.   Bootstrap
+4.   Cascading Style Sheet (CSS), pre-processors like SAAS
+6.   Framework like, Bootstrap
+7.   Working knowledge of Express.js, MongoDB 
 
 
 My skillset also includes some important skills like:
