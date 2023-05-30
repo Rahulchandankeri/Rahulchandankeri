@@ -15,6 +15,7 @@ My skillset also includes important tools like:
 3. MongoDB Compass
 4. VS Code
 
-Checkout Popular repositories :point_down: :point_down:
+Checkout My Projects :point_down: :point_down:
 
-1. [Edtech Project](https://elearn.rahulcodes.dev/)
+1. [Edtech Project (Under Devlopment)](https://elearn.rahulcodes.dev/)
+2. [E-commerce Project](https://gromart.rahulcodes.dev/)
